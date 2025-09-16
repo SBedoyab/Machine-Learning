@@ -4,15 +4,17 @@
 ## [Creación de Características](feature_creation/features.md)
 ## [Modelado ML](model_building/model.md)
 ## [Conclusión](conclusion/conclusion.md)
+
 ---
-# **Práctica Machine Learning: Predicción de Precio en Airbnb**
+
+## **Práctica Machine Learning: Predicción de Precio en Airbnb**
 
 ## Resumen
 Este repositorio contiene el desarrollo de un proyecto de regresión, que tiene como objetivo predecir precios de anuncios de Airbnb's en una ciudad específica (Madrid). Se prepararon datos reales, se generaron variables categóricas/derivadas, se creó por buenas prácticas un modelo baseline tipo Decision Tree y un Random Forest como modelo Machine Learning final.
 
 Las métricas principales fueron:
-- **Decision Tree** (baseline): MAE ± 20.21 Euros (en test).
-- **Random Forest**: MAE ± 17.11 Euros (en test).
+- **Decision Tree** (baseline): MAE ± 20.21 Euros en test.
+- **Random Forest**: MAE ± 17.11 Euros en test.
 
 > Para mayor comprensión del flujo de pensamiento, mirar el notebook `Práctica_ML_Santiago_Bedoya_Builes.ipynb`
 

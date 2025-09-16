@@ -7,7 +7,7 @@
 
 ---
 
-# Exploración de datos (EDA)
+## Exploración de datos (EDA)
 
 La exploración se centra en comprender la estructura, la calidad y las relaciones iniciales del dataset con la variable objetivo **`Price`**.
 
